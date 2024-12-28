@@ -1,0 +1,8 @@
+<svg id="linkedin" xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <rect id="Rectangle_158" data-name="Rectangle 158" width="38" height="38" rx="5" fill="#fcd625"/>
+  <g id="Group_40" data-name="Group 40" transform="translate(6.666 6.846)">
+    <path id="Path_40" data-name="Path 40" d="M106.042,211.087a.818.818,0,0,1-.822.822h-3.5a.818.818,0,0,1-.821-.822h0V196.422a.818.818,0,0,1,.821-.822h3.5a.823.823,0,0,1,.822.822Z" transform="translate(-100.155 -187.568)" fill="#1c1c1c"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="3.316" cy="3.316" r="3.316" fill="#1c1c1c"/>
+    <path id="Path_41" data-name="Path 41" d="M214.966,208.091a.75.75,0,0,1-.753.753h-3.765a.75.75,0,0,1-.753-.753h0v-6.869c0-1.027.3-4.5-2.685-4.5s-2.784,2.373-2.875,3.438V208.1a.753.753,0,0,1-.745.753h-3.636A.75.75,0,0,1,199,208.1h0V193.3a.75.75,0,0,1,.753-.753h3.636a.755.755,0,0,1,.753.753v1.278c.86-1.293,2.13-2.282,4.845-2.282,6.017,0,5.971,5.614,5.971,8.7v7.089Z" transform="translate(-190.793 -184.519)" fill="#1c1c1c"/>
+  </g>
+</svg>
