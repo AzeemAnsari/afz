@@ -177,6 +177,9 @@ img{
   display: flex;
   align-items: center;
 }
+.section1__form-container .iti--inline-dropdown .iti__dropdown-content{
+  z-index: 9;
+}
 .section1__form{
   background-color: var(--grey-color);
   border-radius: var(--border-radius2);
