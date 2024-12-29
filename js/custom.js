@@ -27,12 +27,17 @@ document.querySelectorAll(".inquire-btn").forEach(button => {
       return;
     }
     event.preventDefault();
-
+    
     const targetSection = document.getElementById("contactForm");
-    targetSection.scrollIntoView({
-      behavior: "smooth",
-      block: "start",
-    });
+    const isMobile = window.innerWidth <= 768;
+
+    if (isMobile) {
+      const yOffset = 350;
+      const y = targetSection.getBoundingClientRect().top + window.pageYOffset + yOffset;
+      window.scrollTo({ top: y, behavior: 'smooth' });
+    } else {
+      targetSection.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
   });
 });
 
