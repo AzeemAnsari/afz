@@ -29,7 +29,7 @@ document.querySelectorAll(".inquire-btn").forEach(button => {
     event.preventDefault();
     
     const targetSection = document.getElementById("contactForm");
-    const isMobile = window.innerWidth <= 768;
+    const isMobile = window.innerWidth <= 767;
 
     if (isMobile) {
       const yOffset = 350;
