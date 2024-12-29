@@ -200,7 +200,7 @@ img{
   margin-bottom: 2.8rem;
   margin-top: 1rem;
 }
-.section1__form .iti__search-input{
+.section1__form .iti__search-input, .iti--container .iti__search-input {
   line-height: 2.5;
   padding-left: .5rem;
 }
@@ -1053,8 +1053,12 @@ footer .social ul li:hover a{
   .section2 > .container > h6 {
     margin-bottom: 2rem;
   }
-  .section3 .row.g-5, section .row{
+  .section3 .row.g-5{
     margin:0 !important;
+  }
+  .section3 .row.g-5{
+    margin-right:0;
+    margin-left:0;
   }
   .section3 p, .section1__form-container{
     padding-right: 0;
@@ -1075,9 +1079,13 @@ footer .social ul li:hover a{
   .col-3, .col-2{
     width: 50%;
   }
-  .py-5, .benefits{
+  .py-5{
     padding-top: 1rem !important;
     padding-bottom: 1rem !important;
+  }
+  .benefits{
+    padding-top: 2rem !important;
+    padding-bottom: 3rem !important;
   }
   .numbers .col-4{
     margin-bottom: 1rem;
