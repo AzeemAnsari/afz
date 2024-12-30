@@ -844,6 +844,8 @@ background-color: inherit;
 }
 .afz-accordion .accordion.nested .accordion-item .accordion-header button{
   padding-bottom: 0;
+  padding-left:2.2rem;
+  font-size: 1.1rem;
 }
 .afz-accordion .accordion-header.parent + div > .accordion-body{
   padding-top:0;
