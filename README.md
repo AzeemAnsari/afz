@@ -1,4 +1,3 @@
-92% of storage used … If you run out, you can't create, edit and upload files. Get 30 GB of storage for ₹59.00 ₹29.00/month for 6 months.
 # AFZ Landing page
 
 ### [Live](https://azeemansari.github.io/afz/)
